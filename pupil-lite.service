@@ -1,0 +1,24 @@
+[Unit]
+Description=Pupil Assessment (Lite) - Gradio
+After=network.target
+# 不限重启次数：进程被杀（OOM）也要能自动回来
+StartLimitIntervalSec=0
+
+[Service]
+Type=simple
+User=qingque
+WorkingDirectory=/home/qingque/qingque_yolo/pupil_recognition_web_lite
+Environment=MPLCONFIGDIR=/tmp/mpl-cache
+Environment=PUPIL_PORT=8081
+Environment=PYTHONUNBUFFERED=1
+ExecStart=/mnt/backup/miniconda3/envs/yolo/bin/python app.py
+Restart=always
+RestartSec=5
+# 内存护栏：先压制、再硬上限（避免把整机 OOM）
+MemoryHigh=2500M
+MemoryMax=4000M
+StandardOutput=append:/home/qingque/qingque_yolo/pupil_recognition_web_lite/app.log
+StandardError=append:/home/qingque/qingque_yolo/pupil_recognition_web_lite/app.log
+
+[Install]
+WantedBy=multi-user.target

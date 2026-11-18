@@ -1,0 +1,236 @@
+{
+ "OpenEDS_S_0_baseline_plr_seg.csv": {
+  "_stim": 1.1808,
+  "baseline_mm": 2.28,
+  "constriction_pct": 7.9,
+  "gaze_stability": 0.32,
+  "npi": 1.3,
+  "reflex": "减弱",
+  "triage": "尽快"
+ },
+ "OpenEDS_S_1_baseline_plr_seg.csv": {
+  "_stim": 3.0048,
+  "baseline_mm": 3.0,
+  "constriction_pct": 0.0,
+  "gaze_stability": 0.2,
+  "npi": null,
+  "reflex": "未引出（需复核刺激与录像）",
+  "triage": "尽快"
+ },
+ "OpenEDS_S_2_baseline_plr_seg.csv": {
+  "_stim": 2.9243,
+  "baseline_mm": 2.88,
+  "constriction_pct": 0.0,
+  "gaze_stability": 0.36,
+  "npi": null,
+  "reflex": "未引出（需复核刺激与录像）",
+  "triage": "尽快"
+ },
+ "c2_baseline_plr_seg.csv": {
+  "_stim": 1.2,
+  "baseline_mm": 2.96,
+  "constriction_pct": 3.0,
+  "gaze_stability": null,
+  "npi": null,
+  "reflex": "可疑（幅度 3.0%，未达 5% 阈值）",
+  "triage": "常规"
+ },
+ "check_baseline_plr_seg.csv": {
+  "_stim": 1.2,
+  "baseline_mm": 2.96,
+  "constriction_pct": 2.7,
+  "gaze_stability": null,
+  "npi": null,
+  "reflex": "未引出（需复核刺激与录像）",
+  "triage": "尽快"
+ },
+ "dl_baseline_plr_seg.csv": {
+  "_stim": 1.5,
+  "baseline_mm": 3.12,
+  "constriction_pct": 5.8,
+  "gaze_stability": null,
+  "npi": 2.1,
+  "reflex": "减弱",
+  "triage": "尽快"
+ },
+ "dr_baseline_plr_seg.csv": {
+  "_stim": 0.9,
+  "baseline_mm": 2.84,
+  "constriction_pct": 2.5,
+  "gaze_stability": null,
+  "npi": null,
+  "reflex": "未引出（需复核刺激与录像）",
+  "triage": "尽快"
+ },
+ "f_baseline_plr_seg.csv": {
+  "_stim": 1.2,
+  "baseline_mm": 2.96,
+  "constriction_pct": 3.0,
+  "gaze_stability": null,
+  "npi": null,
+  "reflex": "可疑（幅度 3.0%，未达 5% 阈值）",
+  "triage": "常规"
+ },
+ "gg_baseline_plr_seg.csv": {
+  "_stim": 1.0,
+  "baseline_mm": 2.92,
+  "constriction_pct": 0.3,
+  "gaze_stability": 0.21,
+  "npi": null,
+  "reflex": "未引出（需复核刺激与录像）",
+  "triage": "尽快"
+ },
+ "gl_baseline_plr_seg.csv": {
+  "_stim": 1.0,
+  "baseline_mm": 2.95,
+  "constriction_pct": 2.0,
+  "gaze_stability": null,
+  "npi": null,
+  "reflex": "未引出（需复核刺激与录像）",
+  "triage": "尽快"
+ },
+ "gr_baseline_plr_seg.csv": {
+  "_stim": 0.9,
+  "baseline_mm": 3.19,
+  "constriction_pct": 9.6,
+  "gaze_stability": null,
+  "npi": 1.3,
+  "reflex": "减弱",
+  "triage": "尽快"
+ },
+ "h2_baseline_plr_seg.csv": {
+  "_stim": 1.0,
+  "baseline_mm": 3.14,
+  "constriction_pct": 8.6,
+  "gaze_stability": 0.32,
+  "npi": 1.5,
+  "reflex": "减弱",
+  "triage": "尽快"
+ },
+ "h_baseline_plr_seg.csv": {
+  "_stim": 1.0,
+  "baseline_mm": 3.14,
+  "constriction_pct": 8.6,
+  "gaze_stability": 0.32,
+  "npi": 1.5,
+  "reflex": "减弱",
+  "triage": "尽快"
+ },
+ "k_baseline_plr_seg.csv": {
+  "_stim": 1.0,
+  "baseline_mm": 2.92,
+  "constriction_pct": 0.5,
+  "gaze_stability": 0.22,
+  "npi": null,
+  "reflex": "未引出（需复核刺激与录像）",
+  "triage": "尽快"
+ },
+ "m_baseline_plr_seg.csv": {
+  "_stim": 1.0,
+  "baseline_mm": 2.28,
+  "constriction_pct": 7.0,
+  "gaze_stability": 0.15,
+  "npi": 0.7,
+  "reflex": "减弱",
+  "triage": "尽快"
+ },
+ "p2_baseline_plr_seg.csv": {
+  "_stim": 1.0,
+  "baseline_mm": 2.94,
+  "constriction_pct": 2.0,
+  "gaze_stability": 0.22,
+  "npi": null,
+  "reflex": "未引出（需复核刺激与录像）",
+  "triage": "尽快"
+ },
+ "p_baseline_plr_seg.csv": {
+  "_stim": 1.0,
+  "baseline_mm": 2.94,
+  "constriction_pct": 2.0,
+  "gaze_stability": 0.22,
+  "npi": null,
+  "reflex": "未引出（需复核刺激与录像）",
+  "triage": "尽快"
+ },
+ "s2_baseline_plr_seg.csv": {
+  "_stim": 1.6,
+  "baseline_mm": 2.78,
+  "constriction_pct": 0.0,
+  "gaze_stability": null,
+  "npi": null,
+  "reflex": "未引出（需复核刺激与录像）",
+  "triage": "尽快"
+ },
+ "v1_baseline_plr_seg.csv": {
+  "_stim": 1.0,
+  "baseline_mm": 2.94,
+  "constriction_pct": 2.0,
+  "gaze_stability": 0.08,
+  "npi": null,
+  "reflex": "未引出（需复核刺激与录像）",
+  "triage": "尽快"
+ },
+ "v2_baseline_plr_seg.csv": {
+  "_stim": 1.1,
+  "baseline_mm": 3.19,
+  "constriction_pct": 10.8,
+  "gaze_stability": 0.31,
+  "npi": 2.1,
+  "reflex": "减弱",
+  "triage": "尽快"
+ },
+ "w1_baseline_plr_seg.csv": {
+  "_stim": 1.0,
+  "baseline_mm": 2.95,
+  "constriction_pct": 2.0,
+  "gaze_stability": 0.09,
+  "npi": null,
+  "reflex": "未引出（需复核刺激与录像）",
+  "triage": "尽快"
+ },
+ "w2_baseline_plr_seg.csv": {
+  "_stim": 1.1,
+  "baseline_mm": 3.18,
+  "constriction_pct": 9.4,
+  "gaze_stability": 0.31,
+  "npi": 1.9,
+  "reflex": "减弱",
+  "triage": "尽快"
+ },
+ "y1_baseline_plr_seg.csv": {
+  "_stim": 1.0,
+  "baseline_mm": 2.95,
+  "constriction_pct": 2.7,
+  "gaze_stability": 0.19,
+  "npi": null,
+  "reflex": "未引出（需复核刺激与录像）",
+  "triage": "尽快"
+ },
+ "y2_baseline_plr_seg.csv": {
+  "_stim": 1.1,
+  "baseline_mm": 3.13,
+  "constriction_pct": 8.6,
+  "gaze_stability": 0.3,
+  "npi": 1.9,
+  "reflex": "减弱",
+  "triage": "尽快"
+ },
+ "z1_baseline_plr_seg.csv": {
+  "_stim": 1.0,
+  "baseline_mm": 2.95,
+  "constriction_pct": 2.7,
+  "gaze_stability": 0.19,
+  "npi": null,
+  "reflex": "未引出（需复核刺激与录像）",
+  "triage": "尽快"
+ },
+ "z2_baseline_plr_seg.csv": {
+  "_stim": 1.1,
+  "baseline_mm": 3.13,
+  "constriction_pct": 8.6,
+  "gaze_stability": 0.3,
+  "npi": 1.9,
+  "reflex": "减弱",
+  "triage": "尽快"
+ }
+}

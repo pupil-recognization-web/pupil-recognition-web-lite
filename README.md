@@ -13,6 +13,25 @@
 
 ---
 
+
+## 相关仓库
+
+| 仓库 | 内容 | 必需 |
+|---|---|---|
+[`pupil-recognition-web-pro`](https://github.com/QingQueFans/pupil-recognition-web-pro) | 专业版（训练/推理/去模糊/光流/ROI/3D） | 二选一 |
+[`pupil-recognition-web-lite`](https://github.com/QingQueFans/pupil-recognition-web-lite) | 轻量版（三步引导，面向医生） | 二选一 |
+[`pupil-models`](https://github.com/QingQueFans/pupil-models) | 模型权重（分割三变体 + 去模糊专家 + 光流） | **必需** |
+
+代码仓库不含权重，克隆后需要：
+
+```bash
+git clone https://github.com/QingQueFans/pupil-models.git
+bash pupil-models/install.sh ~/qingque_yolo
+```
+
+数据集（openEDS / LPW 录像）体积过大，不入库，用环境变量指向本地路径：
+`PUPIL_OPENEDS_DIR`、`PUPIL_LPW_DIR`。
+
 ## 两种模式
 
 界面上方选「**单眼评估**」或「**双眼对比**」，后面的三步流程一样：
